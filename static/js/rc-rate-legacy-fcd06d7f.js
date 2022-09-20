@@ -1,0 +1,1 @@
+System.register(["./react-legacy-700da723.js","./react-dom-legacy-f02cb59a.js","./classnames-legacy-fbfdb612.js"],(function(){"use strict";return{setters:[function(){},function(){},function(){}],execute:function(){}}}));

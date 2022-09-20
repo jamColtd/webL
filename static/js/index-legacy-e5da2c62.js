@@ -1,0 +1,1 @@
+System.register(["./antd-legacy-8457e836.js"],(function(e){"use strict";var t,i,n;return{setters:[function(e){t=e.j,i=e.c,n=e.I}],execute:function(){e("C",(function(e){const{imgageList:r}=e;return t(i,{autoplay:!0,style:{height:"634px"},children:r.map(((e,i)=>t("div",{children:t(n,{height:"634px",width:"100%",preview:!1,src:e.src},i)},i)))})}))}}}));

@@ -1,0 +1,1 @@
+System.register(["./react-legacy-700da723.js","./rc-resize-observer-legacy-e3760c70.js","./classnames-legacy-fbfdb612.js"],(function(){"use strict";return{setters:[function(){},function(){},function(){}],execute:function(){}}}));
