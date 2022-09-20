@@ -1,1 +1,0 @@
-System.register(["./@ant-design-legacy-fdadd6a2.js"],(function(t){"use strict";var e;return{setters:[function(t){e=t.o}],execute:function(){t("I",e({scriptUrl:"//at.alicdn.com/t/c/font_3473823_2x8r6ur65ou.js"}))}}}));
