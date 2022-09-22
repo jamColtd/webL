@@ -4,7 +4,7 @@
  * @Author: jam
  * @Date: 2022-05-26 21:20:18
  * @LastEditors: jam
- * @LastEditTime: 2022-09-18 22:04:42
+ * @LastEditTime: 2022-09-22 21:46:28
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -26,6 +26,14 @@
             height: 100%;
         }
     </style>
+    <script type="text/javascript">
+      var map = new BMap.Map("allmap");    
+      map.centerAndZoom(new BMap.Point(113.731809, 22.795236), 11);  // 设置中心点
+      // map.centerAndZoom( "孝感");
+      // map.setCurrentCity("孝感");
+      map.addControl(new BMap.MapTypeControl());   
+      map.enableScrollWheelZoom(true);    
+    </script>
   <script type="module" crossorigin src="./static/js/index-fa4f3e35.js"></script>
   <link rel="modulepreload" href="./static/js/react-58122654.js">
   <link rel="modulepreload" href="./static/js/scheduler-b7750976.js">
