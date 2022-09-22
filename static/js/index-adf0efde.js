@@ -1,0 +1,1 @@
+import{j as e,c as i,I as o}from"./antd-982a812c.js";function h(s){const{imgageList:t}=s;return e(i,{autoplay:!0,style:{height:"634px"},children:t.map((a,r)=>e("div",{children:e(o,{height:"634px",width:"100%",preview:!1,src:a.src},r)},r))})}export{h as C};
